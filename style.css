@@ -1,0 +1,18 @@
+.hit{
+    display:inline;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: brown;
+}
+
+.title {
+    color: green;
+} 
+
+li {
+    display: inline;
+}
+a {
+    text-decoration: none;
+}
